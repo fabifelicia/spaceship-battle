@@ -17,7 +17,7 @@ Development of the spaceship game from the [Take Blip](https://www.take.net/) Bo
 ### Links
 
 - Solution URL: (https://github.com/fabifelicia/spaceship-battle)
-- Live Site URL: (https:./imgs/index.png)
+- Live Site URL: (https://spaceship-battle.vercel.app/)
 
 
 ### Built with
@@ -29,3 +29,5 @@ Development of the spaceship game from the [Take Blip](https://www.take.net/) Bo
 ## Author
 
 - Fabiana Barreto - [@fabifelicia](https://github.com/fabifelicia)
+
+[![CodeFactor](https://www.codefactor.io/repository/github/fabifelicia/spaceship-battle/badge)](https://www.codefactor.io/repository/github/fabifelicia/spaceship-battle)
