@@ -181,7 +181,7 @@ body {
 
 @keyframes play {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -512px;
@@ -190,7 +190,7 @@ body {
 
 @-webkit-keyframes play {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -512px;
@@ -198,7 +198,7 @@ body {
 }
 @-moz-keyframes play {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -512px;
@@ -206,7 +206,7 @@ body {
 }
 @-ms-keyframes play {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -512px;
@@ -214,7 +214,7 @@ body {
 }
 @-o-keyframes play {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -512px;
@@ -223,7 +223,7 @@ body {
 
 @keyframes play2 {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -528px;
@@ -232,7 +232,7 @@ body {
 
 @-webkit-keyframes play2 {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -528px;
@@ -240,7 +240,7 @@ body {
 }
 @-moz-keyframes play2 {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -528px;
@@ -248,7 +248,7 @@ body {
 }
 @-ms-keyframes play2 {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -528px;
@@ -256,7 +256,7 @@ body {
 }
 @-o-keyframes play2 {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -528px;
@@ -265,7 +265,7 @@ body {
 
 @keyframes play3 {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -308px;
@@ -274,7 +274,7 @@ body {
 
 @-webkit-keyframes play3 {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -308px;
@@ -283,7 +283,7 @@ body {
 
 @-moz-keyframes play3 {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -308px;
@@ -292,7 +292,7 @@ body {
 
 @-ms-keyframes play3 {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -308px;
@@ -301,7 +301,7 @@ body {
 
 @-o-keyframes play3 {
   from {
-    background-position: 0px;
+    background-position: 0;
   }
   to {
     background-position: -308px;
